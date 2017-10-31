@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1495027144 source:e:\c++\allegroprojects\final project\main.cpp
+	<allegro.h>
+	<iostream>
+	<Fish.h>
+	<PlayerFish.h>
+	<vector>
+
+1494857718 source:e:\c++\allegroprojects\final project\src\fish.cpp
+	"Fish.h"
+
+1494857506 e:\c++\allegroprojects\final project\include\fish.h
+	"allegro.h"
+	<cstdlib>
+	<iostream>
+	<string>
+
+1494511544 source:e:\c++\allegroprojects\final project\src\playerfish.cpp
+	"PlayerFish.h"
+
+1494511836 e:\c++\allegroprojects\final project\include\playerfish.h
+	<Fish.h>
+
